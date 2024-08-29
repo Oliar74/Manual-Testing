@@ -39,32 +39,29 @@ Remote Professionals) and content, including news, lifestyle articles, job listi
 
 ## Test Plan
 ### Test Strategy
-- **Testing Types:** Functional, Regression, Usability, Performance, etc.
-- **Testing Levels:** Unit, Integration, System, Acceptance.
-- **Entry and Exit Criteria:** Define when testing begins and ends.
+- **Testing Types:** UI Testing, Functional Testing, Usability Testing, Functionality Testing.
+- **Testing Levels:** System Testing
 
 ### Schedule
-- **Start Date:** [Start Date]
-- **End Date:** [End Date]
-- **Milestones:** Important deadlines or events.
-
-### Risk and Mitigation
-- Identify potential risks and describe mitigation strategies.
+- **Start Date:** [8/9/2023 ]
+- **End Date:** [10/9/2023]
 
 ## Test Environment
 ### Hardware
-- List the hardware used for testing (e.g., PC, mobile devices).
+- PC: Elitbook 840g3 Core i5, 8GB RAM, 250SSD, 500DDR
+- Phone: Readmi Note 11, 6GB RAM, 128 ROM
 
 ### Software
-- Operating System: [OS Name and Version]
-- Browsers: [Browser Names and Versions]
-- Other software: [Any other software used]
+- Operating System: [Windows10]
+- Browsers: [Chrome, Edge, Firefox]
 
 ### Network
-- Details about the network setup if relevant.
+- Wifi: 5MBps
+- Mobile Data
 
 ## Test Cases
 - **Test Case ID:** Unique identifier for the test case.
+- **Module:**
 - **Title:** Brief description of the test case.
 - **Preconditions:** Any setup required before execution.
 - **Steps:** Detailed steps to execute the test.
@@ -72,6 +69,7 @@ Remote Professionals) and content, including news, lifestyle articles, job listi
 - **Actual Result:** The actual outcome after execution.
 - **Status:** Pass/Fail.
 - **Remarks:** Any additional notes.
+![image](https://github.com/user-attachments/assets/36e449a5-a0d4-48f8-a6fb-c571189b83de)
 
 ## Bug Reporting
 ### Bug Life Cycle
