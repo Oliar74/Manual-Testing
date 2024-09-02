@@ -1,4 +1,4 @@
-# Manual-Testing for "www.priyo.com" Website
+# Manual-Testing for "www.priyo.com" Website (Registration & Log in)
 ##### We tested this site manually and developed a Test Plan, Test case design, Bug Report, Test Metrics, Mind Map, Test Summary, and many more.
 
 ## Table of Contents
@@ -72,46 +72,57 @@ Remote Professionals) and content, including news, lifestyle articles, job listi
 ![image](https://github.com/user-attachments/assets/36e449a5-a0d4-48f8-a6fb-c571189b83de)
 
 ## Bug Reporting
-### Bug Life Cycle
-- **Reporting Tool:** Name of the tool used (e.g., JIRA, Bugzilla).
-- **Bug ID:** Unique identifier for each bug.
-- **Severity and Priority:** Classify the bug's impact and urgency.
-- **Steps to Reproduce:** Detailed steps to replicate the issue.
-- **Expected vs. Actual Results:** Describe what was expected and what happened.
-- **Status:** New, In Progress, Fixed, etc.
 
-### Bug Report Template
-Provide a sample bug report template that includes all necessary fields.
+### Bug Life Cycle
+- **Reporting Tool:** JIRA 
+- **Bug ID:** FP-7
+- **Severity and Priority:** Major & P0-High.
+- **Steps to Reproduce:**
+1. Go URL
+2. enter a product
+3. Click the Order Now button
+4. Click make payment butoon
+- **Expected vs. Actual Results:** Payment Now” Button does work for making payments but not working.
+- **Status:** Fixed
+
+### Bug Report Template (JIRA)
+![image](https://github.com/user-attachments/assets/04b28896-24af-4187-a1a0-9972c8af8d71)
 
 ## Tools and Technologies
-- **Test Management Tools:** List the tools used (e.g., TestRail, Zephyr).
-- **Bug Tracking Tools:** [Tool Name]
-- **Collaboration Tools:** [Tool Name, e.g., Slack, Confluence]
-- **Browsers and Devices:** [List all browsers and devices used for testing]
+- **Test Management Tools:** Zephyr
+- **Bug Tracking Tools:** JIRA
+- **Collaboration Tools:** JIRA
+- **Browsers and Devices:**  [Chrome, Edge, Firefox]  [PC & Phone]
 
 ## Test Execution
 ### Execution Summary
-- Total test cases: [Number]
-- Test cases passed: [Number]
-- Test cases failed: [Number]
-- Test cases blocked: [Number]
+- Total test cases: [50]
+- Test cases passed: [44]
+- Test cases failed: [6]
+- Test cases blocked: [0]
+  ![image](https://github.com/user-attachments/assets/95c037ca-62c2-4ca2-b6ca-b4a093f0255b)
 
-### Test Logs
-- Include links or references to detailed test execution logs if available.
 
 ## Test Summary
 - **Defects Identified:** Summary of all defects found.
 - **Major Issues:** Description of any critical issues.
 - **Test Coverage:** Percentage of application covered by testing.
 - **Lessons Learned:** Insights gained during the testing process.
+![image](https://github.com/user-attachments/assets/c17cff39-4394-4c8e-8ef7-80a0a5e0a82a)
+
+## Mind Map
+![image](https://github.com/user-attachments/assets/31df573b-6104-460e-9e70-50f203c69196)
+
+## Test Matrics
+![image](https://github.com/user-attachments/assets/719aff3a-fcbd-4498-8d12-72e580785fbf)
+
 
 ## Conclusion
-- **Testing Outcome:** Final assessment of the application's quality.
-- **Readiness for Release:** Whether the application is ready for production.
-- **Recommendations:** Any recommendations for future testing or improvements.
+- **Testing Outcome:** 
+- **Readiness for Release:** 
 
 ## Contributors
-- [Your Name] - [Role]
-- [Contributor Name] - [Role]
+- [Oliar Rahman] - [Jr. SQA Engineer]
+- [Ahsanul Alom Sabbir] - [SQA Manager]
 
 
